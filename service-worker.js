@@ -1,8 +1,10 @@
-const CACHE_NAME = 'timeflow-v1';
+const CACHE_NAME = 'timeflow-v2.0';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json'
+  './',
+  './index.html',
+  './manifest.json',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 self.addEventListener('install', event => {
