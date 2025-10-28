@@ -37,21 +37,5 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ],
-  "screenshots": [
-    {
-      "src": "https://via.placeholder.com/1280x720/4361ee/ffffff?text=TimeFlow+App",
-      "sizes": "1280x720",
-      "type": "image/png",
-      "form_factor": "wide",
-      "label": "TimeFlow - Vista principal"
-    },
-    {
-      "src": "https://via.placeholder.com/375x812/4361ee/ffffff?text=TimeFlow+Mobile",
-      "sizes": "375x812",
-      "type": "image/png", 
-      "form_factor": "narrow",
-      "label": "TimeFlow - Vista móvil"
-    }
   ]
 }
